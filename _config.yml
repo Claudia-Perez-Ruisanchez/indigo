@@ -38,27 +38,27 @@ facebook: myfacebook
 twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: claudiaperezruisanchez
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/Claudia-Perez-Ruisanchez
+github: Claudia-Perez-Ruisanchez
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: 88c.ruisanchez@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Claudia Perez
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: "/images/c.png?raw=true"
+    #twitter: johndoe
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
