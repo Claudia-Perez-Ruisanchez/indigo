@@ -10,7 +10,7 @@ bio: Passionate and creative Data Analyst
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: image/c.png
 
 # If you want to include your resume, set to true
