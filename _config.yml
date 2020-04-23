@@ -1,21 +1,23 @@
 # main text of home
 name: Claudia Perez
-bio: A Man who travels the world eating noodles
+bio: Passionate and creative Data Analyst
+#I'm a Data Analyst  with strong autodidact skills and highly hands-on experience in complex problem-solving, Machine 
+#Learning and Statistics. Passionate about learning new technologies and a great lover of Mathematics and challenges.
+#I have a Ph.D. Degree in Computer Science and Mathematics.
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: "/images/c.png?raw=true"
+external-image: true
+picture: image/c.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
-
+#resume-external: false
+#resume-link: resume/cv.pdf
 url: https://koppl.in/indigo
 # your url: https://USERNAME.github.io
 
@@ -34,8 +36,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: claudiaperezruisanchez
@@ -57,14 +59,9 @@ authors:
     name: Claudia Perez
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: "/images/c.png?raw=true"
+    picture: image/clau.JPEG
     #twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+ 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
