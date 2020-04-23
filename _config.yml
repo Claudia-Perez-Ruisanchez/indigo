@@ -1,6 +1,6 @@
 # main text of home
 name: Claudia Perez
-bio: Passionate about learning new technologies and a great lover of Mathematics
+bio: Passionate and creative Data Analyst
 #I'm a Data Analyst  with strong autodidact skills and highly hands-on experience in complex problem-solving, Machine 
 #Learning and Statistics. Passionate about learning new technologies and a great lover of Mathematics and challenges.
 #I have a Ph.D. Degree in Computer Science and Mathematics.
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: image/clau.JPEG
 
 # If you want to include your resume, set to true
