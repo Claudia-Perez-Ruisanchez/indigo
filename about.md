@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image](image/c.png)
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>I'm a Data Analyst  with strong autodidact skills and highly hands-on experience in complex problem-solving, Machine Learning and Statistics. Passionate about learning new technologies and a great lover of Mathematics and challenges. I have a Ph.D. Degree in Computer Science and Mathematics.</p>
 
