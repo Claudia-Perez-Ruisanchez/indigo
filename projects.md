@@ -1,7 +1,4 @@
----
-title: About
-layout: page
----
+
  :spaghetti: [ Opening an Italian Restaurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
  
  ![](image/italian.png)
