@@ -51,6 +51,8 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
+about-external: true
+about-url: about.md
 
 # add default values to specific pages or layouts
 defaults:
