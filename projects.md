@@ -2,11 +2,11 @@
 title: About
 layout: page
 ---
-:spaghetti: [Opening an Italian Restaurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
+ [:spaghetti: Opening an Italian Restaurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
 
-:city_sunset: [Segmenting and Clustering Neighborhoods in Toronto](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Toronto/blob/master/Toronto.ipynb)
+ [:city_sunset: Segmenting and Clustering Neighborhoods in Toronto](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Toronto/blob/master/Toronto.ipynb)
 
-:office: [Predicting House Prices with Lasso](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/House_Prices_Lasso/blob/master/House_Prices.ipynb)
+ [:office: Predicting House Prices with Lasso](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/House_Prices_Lasso/blob/master/House_Prices.ipynb)
 
-:moneybag: [Predicting ADA (Cardano) Stock Price with LSTM](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Cardano/blob/master/Cardano.ipynb)
+ [:moneybag: Predicting ADA (Cardano) Stock Price with LSTM](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Cardano/blob/master/Cardano.ipynb)
 
