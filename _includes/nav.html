@@ -15,7 +15,7 @@
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.title != "Projects" %}
+            {% if page.title == "About" or page.title=="Home" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
                 </li>
@@ -32,7 +32,7 @@
 
         {% if site.resume == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+                <a class="link" href="{{ site.url }}/resume/cv.pdf">Résumé</a>
             </li>
         {% endif %}
     </ul>
