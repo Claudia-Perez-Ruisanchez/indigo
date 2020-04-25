@@ -15,7 +15,7 @@
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.title == "About" %}
+            {% if page.title == "About" or page.title=="Home" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
                 </li>
