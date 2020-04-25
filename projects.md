@@ -1,5 +1,4 @@
-![](image/c.png =100x20) ### Claudia Perez
-
+![](image/projects.png)
 
  :spaghetti: [ Opening an Italian Restaurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
 
