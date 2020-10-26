@@ -32,7 +32,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 #blog: false
 
 # show author block at the end of a post ?
